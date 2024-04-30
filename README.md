@@ -24,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaitho57&show_icons=true&locale=en" alt="gaitho57" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaitho57&" alt="gaitho57" /></p>
-is this okay? if not how can I improve it
