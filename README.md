@@ -19,22 +19,28 @@
 </p>
 
 <h3>Blog posts</h3>
-<p>
-    Check out my latest blog posts on <a href="https://thegreentechchronicle.blogspot.com/search?updated-max=2023-03-30T08:33:00-07:00&max-results=7&start=5&by-date=false">The Green Tech Chronicle</a>.
-</p>
+<!-- Add your blog post list here -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://twitter.com/@michaelgaitho17" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@michaelgaitho17" height="30" width="40" />
-    </a>
-    <a href="https://www.linkedin.com/in/michael-gaitho-kinene-software-engineer/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael kinene" height="30" width="40" />
-    </a>
-    <a href="https://medium.com/@michaelgaithokinene" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@michaelgaithokinene" height="30" width="40" />
-    </a>
-</p>
+<table align="left">
+    <tr>
+        <td>
+            <a href="https://twitter.com/@michaelgaitho17" target="blank">
+                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@michaelgaitho17" height="30" width="40" />
+            </a>
+        </td>
+        <td>
+            <a href="https://www.linkedin.com/in/michael-gaitho-kinene-software-engineer/" target="blank">
+                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael kinene" height="30" width="40" />
+            </a>
+        </td>
+        <td>
+            <a href="https://medium.com/@michaelgaithokinene" target="blank">
+                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@michaelgaithokinene" height="30" width="40" />
+            </a>
+        </td>
+    </tr>
+</table>
 
 <p align="left"> 
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
